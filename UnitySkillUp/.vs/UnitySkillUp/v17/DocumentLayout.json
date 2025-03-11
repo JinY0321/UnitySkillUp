@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B15BD4E-7FC0-3A7A-19D3-9C534C60CA61}|Assembly-CSharp.csproj|d:\\unity \uC219\uB828\uC8FC\uCC28\\unityskillup\\unityskillup\\assets\\scripts\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B15BD4E-7FC0-3A7A-19D3-9C534C60CA61}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B15BD4E-7FC0-3A7A-19D3-9C534C60CA61}|Assembly-CSharp.csproj|d:\\unity \uC219\uB828\uC8FC\uCC28\\unityskillup\\unityskillup\\assets\\scripts\\scriptableobject\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15BD4E-7FC0-3A7A-19D3-9C534C60CA61}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobject\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B15BD4E-7FC0-3A7A-19D3-9C534C60CA61}|Assembly-CSharp.csproj|d:\\unity \uC219\uB828\uC8FC\uCC28\\unityskillup\\unityskillup\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B15BD4E-7FC0-3A7A-19D3-9C534C60CA61}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B15BD4E-7FC0-3A7A-19D3-9C534C60CA61}|Assembly-CSharp.csproj|d:\\unity \uC219\uB828\uC8FC\uCC28\\unityskillup\\unityskillup\\assets\\scripts\\item\\itemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15BD4E-7FC0-3A7A-19D3-9C534C60CA61}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\itemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15BD4E-7FC0-3A7A-19D3-9C534C60CA61}|Assembly-CSharp.csproj|D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15BD4E-7FC0-3A7A-19D3-9C534C60CA61}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15BD4E-7FC0-3A7A-19D3-9C534C60CA61}|Assembly-CSharp.csproj|D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\assets\\scripts\\player\\playercondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15BD4E-7FC0-3A7A-19D3-9C534C60CA61}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15BD4E-7FC0-3A7A-19D3-9C534C60CA61}|Assembly-CSharp.csproj|d:\\unity \uC219\uB828\uC8FC\uCC28\\unityskillup\\unityskillup\\assets\\scripts\\jumppad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15BD4E-7FC0-3A7A-19D3-9C534C60CA61}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jumppad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15BD4E-7FC0-3A7A-19D3-9C534C60CA61}|Assembly-CSharp.csproj|D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15BD4E-7FC0-3A7A-19D3-9C534C60CA61}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B15BD4E-7FC0-3A7A-19D3-9C534C60CA61}|Assembly-CSharp.csproj|D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\assets\\scripts\\player\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B15BD4E-7FC0-3A7A-19D3-9C534C60CA61}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Player.cs",
-              "DocumentMoniker": "D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\Assets\\Scripts\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
-              "ToolTip": "D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\Assets\\Scripts\\Player.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\Assets\\Scripts\\ScriptableObject\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\ItemData.cs",
+              "ToolTip": "D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\Assets\\Scripts\\ScriptableObject\\ItemData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\ItemData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T04:40:28.58Z",
+              "WhenOpened": "2025-03-11T05:49:43.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CharacterManager.cs",
-              "DocumentMoniker": "D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\Assets\\Scripts\\CharacterManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterManager.cs",
-              "ToolTip": "D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\Assets\\Scripts\\CharacterManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CharacterManager.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBMAAAARAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "JumpPad.cs",
+              "DocumentMoniker": "D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\Assets\\Scripts\\JumpPad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\JumpPad.cs",
+              "ToolTip": "D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\Assets\\Scripts\\JumpPad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\JumpPad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA8AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T04:33:39.254Z",
+              "WhenOpened": "2025-03-11T05:45:18.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T05:23:52.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerCondition.cs",
+              "DocumentMoniker": "D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\Assets\\Scripts\\Player\\PlayerCondition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerCondition.cs",
+              "ToolTip": "D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\Assets\\Scripts\\Player\\PlayerCondition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerCondition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T05:23:01.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T05:22:56.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Interaction.cs",
+              "DocumentMoniker": "D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\Assets\\Scripts\\Player\\Interaction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Interaction.cs",
+              "ToolTip": "D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\Assets\\Scripts\\Player\\Interaction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Interaction.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T05:22:43.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemObject.cs",
+              "DocumentMoniker": "D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\Assets\\Scripts\\Item\\ItemObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item\\ItemObject.cs",
+              "ToolTip": "D:\\Unity \uC219\uB828\uC8FC\uCC28\\UnitySkillUp\\UnitySkillUp\\Assets\\Scripts\\Item\\ItemObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item\\ItemObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T05:22:26.043Z",
               "EditorCaption": ""
             }
           ]
